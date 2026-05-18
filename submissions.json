@@ -36,6 +36,15 @@
     ]
   },
   {
+    "id": 596,
+    "title": "Classes With at Least 5 Students",
+    "title_slug": "classes-with-at-least-5-students",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 620,
     "title": "Not Boring Movies",
     "title_slug": "not-boring-movies",
