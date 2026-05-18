@@ -90,6 +90,15 @@
     ]
   },
   {
+    "id": 601,
+    "title": "Human Traffic of Stadium",
+    "title_slug": "human-traffic-of-stadium",
+    "difficulty": "Hard",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 608,
     "title": "Tree Node",
     "title_slug": "tree-node",
