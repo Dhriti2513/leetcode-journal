@@ -70,5 +70,14 @@
     "skills": [
       "Database"
     ]
+  },
+  {
+    "id": 1280,
+    "title": "Students and Examinations",
+    "title_slug": "students-and-examinations",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
   }
 ]
