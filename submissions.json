@@ -18,6 +18,15 @@
     ]
   },
   {
+    "id": 584,
+    "title": "Find Customer Referee",
+    "title_slug": "find-customer-referee",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 620,
     "title": "Not Boring Movies",
     "title_slug": "not-boring-movies",
