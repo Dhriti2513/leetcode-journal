@@ -3,7 +3,8 @@
 Automatically syncing my accepted LeetCode solutions to GitHub using GitHub Actions.
 
 ## 📈 Stats
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/?username=dhriti_dixit&theme=dark)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhriti_Dixit/)
+![Solved](https://img.shields.io/badge/Daily_Sync-Active-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## 🗂️ Repository Structure
 The solutions are organized into dedicated folders by problem name. Each directory contains:
