@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Sync
-        uses: ahmedbektic/leetcode-records@master
+        uses: ahmedbektic/leetcode-records@main
         with:
           github-token: ${{ github.token }}
           csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
