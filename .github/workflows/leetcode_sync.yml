@@ -9,9 +9,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Sync
-        uses: ahmedbektic/leetcode-records@main
+      - name: Sync LeetCode
+        uses: joshcai/leetcode-sync@v1.7
         with:
           github-token: ${{ github.token }}
-          csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
-          session-cookie: ${{ secrets.LEETCODE_SESSION }}
+          leetcode-csrf-token: ${{ secrets.xZPnzu8zvOJOzyJzTt2gxOkvxZnlHu8q}}
+          leetcode-session: ${eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfYXV0aF91c2VyX2lkIjoiMTkwODUwNjUiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaGFzaCI6IjcyZjdhMzg3OGEwMWJiYmJiNDVkNzYwMGFjMzBjNTEyZGZmZjE0MDRmNTJhOTU5MTAzNTJhZGVlMjVkMjFiNGEiLCJzZXNzaW9uX3V1aWQiOiIyODYwNTQ1ZCIsImlkIjoxOTA4NTA2NSwiZW1haWwiOiJkZGhyaXRpNjFAZ21haWwuY29tIiwidXNlcm5hbWUiOiJEaHJpdGlfRGl4aXQiLCJ1c2VyX3NsdWciOiJEaHJpdGlfRGl4aXQiLCJhdmF0YXIiOiJodHRwczovL2Fzc2V0cy5sZWV0Y29kZS5jb20vdXNlcnMvRGhyaXRpX0RpeGl0L2F2YXRhcl8xNzc5MTA3MDkwLnBuZyIsInJlZnJlc2hlZF9hdCI6MTc4MDQ5ODAyMywiaXAiOiIyNDA1OjIwMTo2ODIzOmMwZGU6MzRkYjpjM2I4OjE2Nzc6OGVmMCIsImlkZW50aXR5IjoiOTBkYWE1NTE2MDQyNjlkYmNkY2YyMzdiNWNjNzAwZjMiLCJkZXZpY2Vfd2l0aF9pcCI6WyIxMmI3NmQ3YTlmNDE3ZjA1ZTE2NzU5MmY0OGYwMWMyZiIsIjI0MDU6MjAxOjY4MjM6YzBkZTozNGRiOmMzYjg6MTY3Nzo4ZWYwIl0sIl9zZXNzaW9uX2V4cGlyeSI6MTIwOTYwMH0.0NFbYab3s3R_hBPDiNgH_zKjU8G_c1u2TshLD91SnMI}}
