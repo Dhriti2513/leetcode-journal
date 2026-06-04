@@ -1,10 +1,10 @@
 # 💻 LeetCode Submissions
 
-Automatically syncing my accepted LeetCode solutions to GitHub using GitHub Actions.
+Automatically syncing my accepted LeetCode solutions directly to GitHub in real-time.
 
 ## 📈 Stats
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhriti_Dixit/)
-![Solved](https://img.shields.io/badge/Daily_Sync-Active-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white)
+![Sync](https://img.shields.io/badge/Sync-Real--Time-blue?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ## 🗂️ Repository Structure
 The solutions are organized into dedicated folders by problem name. Each directory contains:
@@ -13,7 +13,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 
 ## 📊 Details
 * **Languages:** Python 🐍, SQL 🛢️
-* **Automation:** Updated daily via GitHub Actions
+* **Automation:** Instant sync on submission approval
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
