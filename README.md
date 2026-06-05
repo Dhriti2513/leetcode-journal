@@ -21,10 +21,12 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
 |  |
 | ------- |
