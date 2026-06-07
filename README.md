@@ -31,4 +31,20 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Array
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
+## Hash Table
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
