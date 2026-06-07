@@ -34,6 +34,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Array
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Dhriti2513/leetcode-journal/tree/master/1046-last-stone-weight) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhriti2513/leetcode-journal/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhriti2513/leetcode-journal/tree/master/2073-time-needed-to-buy-tickets) |
@@ -73,5 +74,6 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Dhriti2513/leetcode-journal/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
