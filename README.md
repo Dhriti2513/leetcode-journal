@@ -35,6 +35,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhriti2513/leetcode-journal/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Dhriti2513/leetcode-journal/tree/master/2073-time-needed-to-buy-tickets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
@@ -56,8 +57,10 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhriti2513/leetcode-journal/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Dhriti2513/leetcode-journal/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhriti2513/leetcode-journal/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Dhriti2513/leetcode-journal/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
