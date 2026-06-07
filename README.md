@@ -81,5 +81,6 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## String
 |  |
 | ------- |
+| [0482-license-key-formatting](https://github.com/Dhriti2513/leetcode-journal/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Dhriti2513/leetcode-journal/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
