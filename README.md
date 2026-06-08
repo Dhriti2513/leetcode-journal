@@ -39,6 +39,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhriti2513/leetcode-journal/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhriti2513/leetcode-journal/tree/master/2073-time-needed-to-buy-tickets) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dhriti2513/leetcode-journal/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhriti2513/leetcode-journal/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhriti2513/leetcode-journal/tree/master/2073-time-needed-to-buy-tickets) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dhriti2513/leetcode-journal/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Design
 |  |
 | ------- |
@@ -84,4 +86,8 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0482-license-key-formatting](https://github.com/Dhriti2513/leetcode-journal/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Dhriti2513/leetcode-journal/tree/master/0520-detect-capital) |
 | [0831-masking-personal-information](https://github.com/Dhriti2513/leetcode-journal/tree/master/0831-masking-personal-information) |
+## Two Pointers
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dhriti2513/leetcode-journal/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
