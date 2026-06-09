@@ -37,6 +37,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0001-two-sum](https://github.com/Dhriti2513/leetcode-journal/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Dhriti2513/leetcode-journal/tree/master/0041-first-missing-positive) |
+| [0238-product-of-array-except-self](https://github.com/Dhriti2513/leetcode-journal/tree/master/0238-product-of-array-except-self) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0605-can-place-flowers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0605-can-place-flowers) |
 | [1046-last-stone-weight](https://github.com/Dhriti2513/leetcode-journal/tree/master/1046-last-stone-weight) |
@@ -129,6 +130,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Dhriti2513/leetcode-journal/tree/master/0238-product-of-array-except-self) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhriti2513/leetcode-journal/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/Dhriti2513/leetcode-journal/tree/master/1732-find-the-highest-altitude) |
