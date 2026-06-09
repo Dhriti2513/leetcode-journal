@@ -96,6 +96,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0345-reverse-vowels-of-a-string) |
 | [0482-license-key-formatting](https://github.com/Dhriti2513/leetcode-journal/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Dhriti2513/leetcode-journal/tree/master/0520-detect-capital) |
@@ -105,6 +106,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Dhriti2513/leetcode-journal/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhriti2513/leetcode-journal/tree/master/2161-partition-array-according-to-given-pivot) |
