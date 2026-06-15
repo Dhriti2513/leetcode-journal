@@ -42,6 +42,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0605-can-place-flowers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0605-can-place-flowers) |
 | [1046-last-stone-weight](https://github.com/Dhriti2513/leetcode-journal/tree/master/1046-last-stone-weight) |
+| [1200-minimum-absolute-difference](https://github.com/Dhriti2513/leetcode-journal/tree/master/1200-minimum-absolute-difference) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dhriti2513/leetcode-journal/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhriti2513/leetcode-journal/tree/master/1590-make-sum-divisible-by-p) |
@@ -140,4 +141,8 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1590-make-sum-divisible-by-p](https://github.com/Dhriti2513/leetcode-journal/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/Dhriti2513/leetcode-journal/tree/master/1732-find-the-highest-altitude) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/Dhriti2513/leetcode-journal/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
