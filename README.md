@@ -20,6 +20,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -121,6 +122,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0151-reverse-words-in-a-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Dhriti2513/leetcode-journal/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0633-sum-of-square-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Dhriti2513/leetcode-journal/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhriti2513/leetcode-journal/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -187,6 +189,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Dhriti2513/leetcode-journal/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
