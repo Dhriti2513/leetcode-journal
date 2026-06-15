@@ -38,6 +38,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0001-two-sum](https://github.com/Dhriti2513/leetcode-journal/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Dhriti2513/leetcode-journal/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Dhriti2513/leetcode-journal/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Dhriti2513/leetcode-journal/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dhriti2513/leetcode-journal/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -95,6 +96,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Dhriti2513/leetcode-journal/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -147,6 +149,15 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Dhriti2513/leetcode-journal/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0215-kth-largest-element-in-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Dhriti2513/leetcode-journal/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dhriti2513/leetcode-journal/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
