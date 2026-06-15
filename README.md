@@ -41,6 +41,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Dhriti2513/leetcode-journal/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Dhriti2513/leetcode-journal/tree/master/0056-merge-intervals) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhriti2513/leetcode-journal/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Dhriti2513/leetcode-journal/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dhriti2513/leetcode-journal/tree/master/0334-increasing-triplet-subsequence) |
@@ -68,16 +69,19 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0001-two-sum](https://github.com/Dhriti2513/leetcode-journal/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Dhriti2513/leetcode-journal/tree/master/0041-first-missing-positive) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhriti2513/leetcode-journal/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhriti2513/leetcode-journal/tree/master/0138-copy-list-with-random-pointer) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhriti2513/leetcode-journal/tree/master/1590-make-sum-divisible-by-p) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhriti2513/leetcode-journal/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhriti2513/leetcode-journal/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Stack
 |  |
@@ -167,6 +171,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhriti2513/leetcode-journal/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0932-beautiful-array) |
