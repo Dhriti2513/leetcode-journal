@@ -43,6 +43,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0334-increasing-triplet-subsequence](https://github.com/Dhriti2513/leetcode-journal/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0605-can-place-flowers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/Dhriti2513/leetcode-journal/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Dhriti2513/leetcode-journal/tree/master/1046-last-stone-weight) |
@@ -186,5 +187,6 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Dhriti2513/leetcode-journal/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
