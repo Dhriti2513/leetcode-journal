@@ -49,6 +49,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1664-ways-to-make-a-fair-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1664-ways-to-make-a-fair-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhriti2513/leetcode-journal/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Dhriti2513/leetcode-journal/tree/master/1732-find-the-highest-altitude) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dhriti2513/leetcode-journal/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhriti2513/leetcode-journal/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhriti2513/leetcode-journal/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -145,4 +146,5 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/Dhriti2513/leetcode-journal/tree/master/1200-minimum-absolute-difference) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dhriti2513/leetcode-journal/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 <!---LeetCode Topics End-->
