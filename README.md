@@ -113,6 +113,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Dhriti2513/leetcode-journal/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/Dhriti2513/leetcode-journal/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhriti2513/leetcode-journal/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
@@ -127,6 +128,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0138-copy-list-with-random-pointer](https://github.com/Dhriti2513/leetcode-journal/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/0328-odd-even-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
