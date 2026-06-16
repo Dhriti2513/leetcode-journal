@@ -75,6 +75,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhriti2513/leetcode-journal/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhriti2513/leetcode-journal/tree/master/0138-copy-list-with-random-pointer) |
 | [0219-contains-duplicate-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhriti2513/leetcode-journal/tree/master/1590-make-sum-divisible-by-p) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Tree
@@ -128,6 +129,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0520-detect-capital](https://github.com/Dhriti2513/leetcode-journal/tree/master/0520-detect-capital) |
 | [0831-masking-personal-information](https://github.com/Dhriti2513/leetcode-journal/tree/master/0831-masking-personal-information) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Dhriti2513/leetcode-journal/tree/master/1768-merge-strings-alternately) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3612-process-string-with-special-operations-i) |
 ## Two Pointers
@@ -231,4 +233,5 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
