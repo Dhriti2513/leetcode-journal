@@ -44,6 +44,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0056-merge-intervals](https://github.com/Dhriti2513/leetcode-journal/tree/master/0056-merge-intervals) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhriti2513/leetcode-journal/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Dhriti2513/leetcode-journal/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dhriti2513/leetcode-journal/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -73,6 +74,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0041-first-missing-positive](https://github.com/Dhriti2513/leetcode-journal/tree/master/0041-first-missing-positive) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhriti2513/leetcode-journal/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhriti2513/leetcode-journal/tree/master/0138-copy-list-with-random-pointer) |
+| [0219-contains-duplicate-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhriti2513/leetcode-journal/tree/master/1590-make-sum-divisible-by-p) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Tree
@@ -225,4 +227,8 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Dhriti2513/leetcode-journal/tree/master/0493-reverse-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
