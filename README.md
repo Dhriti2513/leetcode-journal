@@ -123,6 +123,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Dhriti2513/leetcode-journal/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhriti2513/leetcode-journal/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Dhriti2513/leetcode-journal/tree/master/0443-string-compression) |
@@ -237,4 +238,16 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0219-contains-duplicate-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhriti2513/leetcode-journal/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Dhriti2513/leetcode-journal/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Dhriti2513/leetcode-journal/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Dhriti2513/leetcode-journal/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
