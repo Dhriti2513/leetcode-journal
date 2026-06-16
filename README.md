@@ -101,6 +101,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhriti2513/leetcode-journal/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhriti2513/leetcode-journal/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhriti2513/leetcode-journal/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3612-process-string-with-special-operations-i) |
 ## Design
 |  |
 | ------- |
@@ -124,6 +125,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0831-masking-personal-information](https://github.com/Dhriti2513/leetcode-journal/tree/master/0831-masking-personal-information) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Dhriti2513/leetcode-journal/tree/master/1768-merge-strings-alternately) |
+| [3612-process-string-with-special-operations-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3612-process-string-with-special-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
