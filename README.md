@@ -135,6 +135,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Dhriti2513/leetcode-journal/tree/master/1392-longest-happy-prefix) |
 | [1768-merge-strings-alternately](https://github.com/Dhriti2513/leetcode-journal/tree/master/1768-merge-strings-alternately) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3612-process-string-with-special-operations-i) |
 ## Two Pointers
 |  |
@@ -221,6 +222,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0633-sum-of-square-numbers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Dhriti2513/leetcode-journal/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -244,14 +246,21 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dhriti2513/leetcode-journal/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Dhriti2513/leetcode-journal/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/2223-sum-of-scores-of-built-strings) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dhriti2513/leetcode-journal/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Dhriti2513/leetcode-journal/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dhriti2513/leetcode-journal/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Dhriti2513/leetcode-journal/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/2223-sum-of-scores-of-built-strings) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
