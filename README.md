@@ -133,6 +133,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0831-masking-personal-information](https://github.com/Dhriti2513/leetcode-journal/tree/master/0831-masking-personal-information) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/Dhriti2513/leetcode-journal/tree/master/1392-longest-happy-prefix) |
 | [1768-merge-strings-alternately](https://github.com/Dhriti2513/leetcode-journal/tree/master/1768-merge-strings-alternately) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3612-process-string-with-special-operations-i) |
 ## Two Pointers
@@ -242,12 +243,15 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dhriti2513/leetcode-journal/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Dhriti2513/leetcode-journal/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dhriti2513/leetcode-journal/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Dhriti2513/leetcode-journal/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dhriti2513/leetcode-journal/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Dhriti2513/leetcode-journal/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
