@@ -95,6 +95,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Dhriti2513/leetcode-journal/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0394-decode-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhriti2513/leetcode-journal/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -128,6 +129,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0151-reverse-words-in-a-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Dhriti2513/leetcode-journal/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhriti2513/leetcode-journal/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Dhriti2513/leetcode-journal/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0481-magical-string) |
@@ -174,6 +176,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dhriti2513/leetcode-journal/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Prefix Sum
 |  |
