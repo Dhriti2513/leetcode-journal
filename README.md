@@ -278,4 +278,8 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/2223-sum-of-scores-of-built-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Dhriti2513/leetcode-journal/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
