@@ -160,6 +160,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Dhriti2513/leetcode-journal/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhriti2513/leetcode-journal/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/0147-insertion-sort-list) |
@@ -169,6 +170,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Dhriti2513/leetcode-journal/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/0206-reverse-linked-list) |
 ## Prefix Sum
 |  |
