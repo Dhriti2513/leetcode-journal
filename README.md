@@ -126,6 +126,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## String
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/Dhriti2513/leetcode-journal/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Dhriti2513/leetcode-journal/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0345-reverse-vowels-of-a-string) |
@@ -282,4 +283,5 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Dhriti2513/leetcode-journal/tree/master/0077-combinations) |
+| [0093-restore-ip-addresses](https://github.com/Dhriti2513/leetcode-journal/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
