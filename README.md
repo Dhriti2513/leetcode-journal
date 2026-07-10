@@ -67,6 +67,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhriti2513/leetcode-journal/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Dhriti2513/leetcode-journal/tree/master/1732-find-the-highest-altitude) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dhriti2513/leetcode-journal/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Dhriti2513/leetcode-journal/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhriti2513/leetcode-journal/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhriti2513/leetcode-journal/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -306,6 +307,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0077-combinations](https://github.com/Dhriti2513/leetcode-journal/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/Dhriti2513/leetcode-journal/tree/master/0093-restore-ip-addresses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dhriti2513/leetcode-journal/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Dhriti2513/leetcode-journal/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -314,6 +316,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Dhriti2513/leetcode-journal/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Dhriti2513/leetcode-journal/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Dhriti2513/leetcode-journal/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhriti2513/leetcode-journal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
