@@ -89,6 +89,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhriti2513/leetcode-journal/tree/master/1590-make-sum-divisible-by-p) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Dhriti2513/leetcode-journal/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
@@ -313,6 +314,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Dhriti2513/leetcode-journal/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Dhriti2513/leetcode-journal/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhriti2513/leetcode-journal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
