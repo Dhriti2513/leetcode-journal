@@ -312,6 +312,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Graph Theory
 |  |
 | ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Dhriti2513/leetcode-journal/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhriti2513/leetcode-journal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
