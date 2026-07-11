@@ -55,6 +55,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0493-reverse-pairs](https://github.com/Dhriti2513/leetcode-journal/tree/master/0493-reverse-pairs) |
 | [0605-can-place-flowers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Dhriti2513/leetcode-journal/tree/master/0704-binary-search) |
+| [0815-bus-routes](https://github.com/Dhriti2513/leetcode-journal/tree/master/0815-bus-routes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0932-beautiful-array) |
@@ -89,6 +90,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0138-copy-list-with-random-pointer](https://github.com/Dhriti2513/leetcode-journal/tree/master/0138-copy-list-with-random-pointer) |
 | [0219-contains-duplicate-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhriti2513/leetcode-journal/tree/master/0424-longest-repeating-character-replacement) |
+| [0815-bus-routes](https://github.com/Dhriti2513/leetcode-journal/tree/master/0815-bus-routes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhriti2513/leetcode-journal/tree/master/0952-largest-component-size-by-common-factor) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Dhriti2513/leetcode-journal/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -319,6 +321,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0463-island-perimeter](https://github.com/Dhriti2513/leetcode-journal/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dhriti2513/leetcode-journal/tree/master/0797-all-paths-from-source-to-target) |
+| [0815-bus-routes](https://github.com/Dhriti2513/leetcode-journal/tree/master/0815-bus-routes) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Dhriti2513/leetcode-journal/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Dhriti2513/leetcode-journal/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1765-map-of-highest-peak](https://github.com/Dhriti2513/leetcode-journal/tree/master/1765-map-of-highest-peak) |
