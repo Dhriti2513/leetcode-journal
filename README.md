@@ -67,6 +67,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1664-ways-to-make-a-fair-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1664-ways-to-make-a-fair-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhriti2513/leetcode-journal/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Dhriti2513/leetcode-journal/tree/master/1732-find-the-highest-altitude) |
+| [1765-map-of-highest-peak](https://github.com/Dhriti2513/leetcode-journal/tree/master/1765-map-of-highest-peak) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dhriti2513/leetcode-journal/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Dhriti2513/leetcode-journal/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhriti2513/leetcode-journal/tree/master/2073-time-needed-to-buy-tickets) |
@@ -315,6 +316,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0463-island-perimeter](https://github.com/Dhriti2513/leetcode-journal/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dhriti2513/leetcode-journal/tree/master/0797-all-paths-from-source-to-target) |
+| [1765-map-of-highest-peak](https://github.com/Dhriti2513/leetcode-journal/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dhriti2513/leetcode-journal/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dhriti2513/leetcode-journal/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhriti2513/leetcode-journal/tree/master/2685-count-the-number-of-complete-components) |
@@ -335,6 +337,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Dhriti2513/leetcode-journal/tree/master/0463-island-perimeter) |
+| [1765-map-of-highest-peak](https://github.com/Dhriti2513/leetcode-journal/tree/master/1765-map-of-highest-peak) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhriti2513/leetcode-journal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
