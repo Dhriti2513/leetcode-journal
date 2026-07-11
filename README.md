@@ -306,17 +306,20 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0077-combinations](https://github.com/Dhriti2513/leetcode-journal/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/Dhriti2513/leetcode-journal/tree/master/0093-restore-ip-addresses) |
+| [0797-all-paths-from-source-to-target](https://github.com/Dhriti2513/leetcode-journal/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dhriti2513/leetcode-journal/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Dhriti2513/leetcode-journal/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Dhriti2513/leetcode-journal/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dhriti2513/leetcode-journal/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhriti2513/leetcode-journal/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhriti2513/leetcode-journal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Dhriti2513/leetcode-journal/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Dhriti2513/leetcode-journal/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dhriti2513/leetcode-journal/tree/master/1971-find-if-path-exists-in-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Dhriti2513/leetcode-journal/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -350,6 +353,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Depth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Dhriti2513/leetcode-journal/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dhriti2513/leetcode-journal/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhriti2513/leetcode-journal/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
