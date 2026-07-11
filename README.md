@@ -311,6 +311,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Breadth-First Search
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Dhriti2513/leetcode-journal/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhriti2513/leetcode-journal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -318,6 +319,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Dhriti2513/leetcode-journal/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Dhriti2513/leetcode-journal/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Dhriti2513/leetcode-journal/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2685-count-the-number-of-complete-components](https://github.com/Dhriti2513/leetcode-journal/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhriti2513/leetcode-journal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -337,8 +339,13 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhriti2513/leetcode-journal/tree/master/0128-longest-consecutive-sequence) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhriti2513/leetcode-journal/tree/master/0952-largest-component-size-by-common-factor) |
+| [2685-count-the-number-of-complete-components](https://github.com/Dhriti2513/leetcode-journal/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhriti2513/leetcode-journal/tree/master/0952-largest-component-size-by-common-factor) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Dhriti2513/leetcode-journal/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
