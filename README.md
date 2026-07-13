@@ -63,6 +63,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1046-last-stone-weight](https://github.com/Dhriti2513/leetcode-journal/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Dhriti2513/leetcode-journal/tree/master/1200-minimum-absolute-difference) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Dhriti2513/leetcode-journal/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1331-rank-transform-of-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1331-rank-transform-of-an-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dhriti2513/leetcode-journal/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhriti2513/leetcode-journal/tree/master/1590-make-sum-divisible-by-p) |
@@ -93,6 +94,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0815-bus-routes](https://github.com/Dhriti2513/leetcode-journal/tree/master/0815-bus-routes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhriti2513/leetcode-journal/tree/master/0952-largest-component-size-by-common-factor) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Dhriti2513/leetcode-journal/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1331-rank-transform-of-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhriti2513/leetcode-journal/tree/master/1590-make-sum-divisible-by-p) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -220,6 +222,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0912-sort-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Dhriti2513/leetcode-journal/tree/master/1200-minimum-absolute-difference) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Dhriti2513/leetcode-journal/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1331-rank-transform-of-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1331-rank-transform-of-an-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dhriti2513/leetcode-journal/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
