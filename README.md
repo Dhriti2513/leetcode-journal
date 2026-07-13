@@ -35,6 +35,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Dhriti2513/leetcode-journal/tree/master/1291-sequential-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |
