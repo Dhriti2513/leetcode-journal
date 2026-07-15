@@ -24,6 +24,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0932-beautiful-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0932-beautiful-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhriti2513/leetcode-journal/tree/master/0952-largest-component-size-by-common-factor) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
@@ -373,6 +374,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhriti2513/leetcode-journal/tree/master/0952-largest-component-size-by-common-factor) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Depth-First Search
 |  |
 | ------- |
