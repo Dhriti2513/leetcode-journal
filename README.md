@@ -27,6 +27,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhriti2513/leetcode-journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [3689-maximum-total-subarray-value-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhriti2513/leetcode-journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +135,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhriti2513/leetcode-journal/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhriti2513/leetcode-journal/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3612-process-string-with-special-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhriti2513/leetcode-journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -181,6 +184,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhriti2513/leetcode-journal/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhriti2513/leetcode-journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -227,6 +231,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1331-rank-transform-of-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1331-rank-transform-of-an-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dhriti2513/leetcode-journal/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhriti2513/leetcode-journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -375,6 +380,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhriti2513/leetcode-journal/tree/master/0952-largest-component-size-by-common-factor) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhriti2513/leetcode-journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
