@@ -125,6 +125,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Dhriti2513/leetcode-journal/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0394-decode-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhriti2513/leetcode-journal/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -169,6 +170,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0520-detect-capital](https://github.com/Dhriti2513/leetcode-journal/tree/master/0520-detect-capital) |
 | [0831-masking-personal-information](https://github.com/Dhriti2513/leetcode-journal/tree/master/0831-masking-personal-information) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Dhriti2513/leetcode-journal/tree/master/1392-longest-happy-prefix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dhriti2513/leetcode-journal/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -195,6 +197,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Dhriti2513/leetcode-journal/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0605-can-place-flowers) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3689-maximum-total-subarray-value-i) |
 ## Linked List
@@ -403,4 +406,8 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dhriti2513/leetcode-journal/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
