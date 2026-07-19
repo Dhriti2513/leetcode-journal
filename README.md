@@ -116,6 +116,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhriti2513/leetcode-journal/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0687-longest-univalue-path](https://github.com/Dhriti2513/leetcode-journal/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Dhriti2513/leetcode-journal/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
@@ -124,6 +125,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhriti2513/leetcode-journal/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0687-longest-univalue-path](https://github.com/Dhriti2513/leetcode-journal/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Dhriti2513/leetcode-journal/tree/master/2236-root-equals-sum-of-children) |
 ## Stack
@@ -421,4 +423,5 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
