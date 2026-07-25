@@ -41,6 +41,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Dhriti2513/leetcode-journal/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |
@@ -195,6 +196,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Dhriti2513/leetcode-journal/tree/master/1768-merge-strings-alternately) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3612-process-string-with-special-operations-i) |
 ## Two Pointers
 |  |
