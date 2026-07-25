@@ -26,6 +26,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dhriti2513/leetcode-journal/tree/master/3312-sorted-gcd-pair-queries) |
+| [3536-maximum-product-of-two-digits](https://github.com/Dhriti2513/leetcode-journal/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -258,6 +259,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1331-rank-transform-of-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1331-rank-transform-of-an-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Dhriti2513/leetcode-journal/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Dhriti2513/leetcode-journal/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhriti2513/leetcode-journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
