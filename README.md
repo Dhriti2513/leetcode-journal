@@ -20,6 +20,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0932-beautiful-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhriti2513/leetcode-journal/tree/master/0952-largest-component-size-by-common-factor) |
@@ -63,6 +64,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0463-island-perimeter](https://github.com/Dhriti2513/leetcode-journal/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/Dhriti2513/leetcode-journal/tree/master/0493-reverse-pairs) |
 | [0605-can-place-flowers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Dhriti2513/leetcode-journal/tree/master/0704-binary-search) |
 | [0731-my-calendar-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/0731-my-calendar-ii) |
 | [0815-bus-routes](https://github.com/Dhriti2513/leetcode-journal/tree/master/0815-bus-routes) |
@@ -257,6 +259,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0056-merge-intervals](https://github.com/Dhriti2513/leetcode-journal/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0215-kth-largest-element-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Dhriti2513/leetcode-journal/tree/master/1200-minimum-absolute-difference) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Dhriti2513/leetcode-journal/tree/master/1311-get-watched-videos-by-your-friends) |
