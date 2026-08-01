@@ -20,6 +20,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Dhriti2513/leetcode-journal/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0932-beautiful-array) |
@@ -36,6 +37,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Dhriti2513/leetcode-journal/tree/master/0486-predict-the-winner) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -62,6 +64,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0334-increasing-triplet-subsequence](https://github.com/Dhriti2513/leetcode-journal/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0463-island-perimeter](https://github.com/Dhriti2513/leetcode-journal/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/Dhriti2513/leetcode-journal/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Dhriti2513/leetcode-journal/tree/master/0493-reverse-pairs) |
 | [0605-can-place-flowers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0628-maximum-product-of-three-numbers) |
@@ -245,6 +248,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0021-merge-two-sorted-lists](https://github.com/Dhriti2513/leetcode-journal/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Dhriti2513/leetcode-journal/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Prefix Sum
 |  |
@@ -463,4 +467,8 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0450-delete-node-in-a-bst](https://github.com/Dhriti2513/leetcode-journal/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/0701-insert-into-a-binary-search-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Dhriti2513/leetcode-journal/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
