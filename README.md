@@ -123,6 +123,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Dhriti2513/leetcode-journal/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhriti2513/leetcode-journal/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dhriti2513/leetcode-journal/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -209,6 +210,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1768-merge-strings-alternately](https://github.com/Dhriti2513/leetcode-journal/tree/master/1768-merge-strings-alternately) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhriti2513/leetcode-journal/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3612-process-string-with-special-operations-i) |
@@ -360,6 +362,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0219-contains-duplicate-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhriti2513/leetcode-journal/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhriti2513/leetcode-journal/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Rolling Hash
 |  |
 | ------- |
