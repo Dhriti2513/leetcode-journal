@@ -28,6 +28,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1510-stone-game-iv](https://github.com/Dhriti2513/leetcode-journal/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhriti2513/leetcode-journal/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dhriti2513/leetcode-journal/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhriti2513/leetcode-journal/tree/master/3536-maximum-product-of-two-digits) |
@@ -96,6 +97,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhriti2513/leetcode-journal/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Dhriti2513/leetcode-journal/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhriti2513/leetcode-journal/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhriti2513/leetcode-journal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dhriti2513/leetcode-journal/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhriti2513/leetcode-journal/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -336,6 +338,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Dhriti2513/leetcode-journal/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhriti2513/leetcode-journal/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dhriti2513/leetcode-journal/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Indexed Tree
@@ -435,6 +438,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Bit Manipulation
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhriti2513/leetcode-journal/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
@@ -450,6 +454,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhriti2513/leetcode-journal/tree/master/0952-largest-component-size-by-common-factor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhriti2513/leetcode-journal/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dhriti2513/leetcode-journal/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhriti2513/leetcode-journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -465,6 +470,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhriti2513/leetcode-journal/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dhriti2513/leetcode-journal/tree/master/3312-sorted-gcd-pair-queries) |
 ## Monotonic Stack
 |  |
