@@ -27,6 +27,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhriti2513/leetcode-journal/tree/master/0952-largest-component-size-by-common-factor) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1510-stone-game-iv](https://github.com/Dhriti2513/leetcode-journal/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Dhriti2513/leetcode-journal/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhriti2513/leetcode-journal/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dhriti2513/leetcode-journal/tree/master/3312-sorted-gcd-pair-queries) |
@@ -213,6 +214,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dhriti2513/leetcode-journal/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Dhriti2513/leetcode-journal/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/Dhriti2513/leetcode-journal/tree/master/1927-sum-game) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhriti2513/leetcode-journal/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -239,6 +241,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0334-increasing-triplet-subsequence](https://github.com/Dhriti2513/leetcode-journal/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Dhriti2513/leetcode-journal/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/Dhriti2513/leetcode-journal/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3689-maximum-total-subarray-value-i) |
@@ -489,6 +492,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dhriti2513/leetcode-journal/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Dhriti2513/leetcode-journal/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Dhriti2513/leetcode-journal/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
