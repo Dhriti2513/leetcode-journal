@@ -219,6 +219,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1768-merge-strings-alternately](https://github.com/Dhriti2513/leetcode-journal/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Dhriti2513/leetcode-journal/tree/master/1927-sum-game) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhriti2513/leetcode-journal/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -375,6 +376,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0219-contains-duplicate-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhriti2513/leetcode-journal/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhriti2513/leetcode-journal/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Rolling Hash
 |  |
