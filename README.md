@@ -258,6 +258,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0147-insertion-sort-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/0328-odd-even-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Dhriti2513/leetcode-journal/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
