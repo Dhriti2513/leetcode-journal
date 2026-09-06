@@ -43,6 +43,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Dhriti2513/leetcode-journal/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Dhriti2513/leetcode-journal/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Dhriti2513/leetcode-journal/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Dhriti2513/leetcode-journal/tree/master/1872-stone-game-viii) |
@@ -202,6 +203,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Dhriti2513/leetcode-journal/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/Dhriti2513/leetcode-journal/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Dhriti2513/leetcode-journal/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhriti2513/leetcode-journal/tree/master/0345-reverse-vowels-of-a-string) |
