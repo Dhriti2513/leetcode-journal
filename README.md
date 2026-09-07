@@ -45,6 +45,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Dhriti2513/leetcode-journal/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Dhriti2513/leetcode-journal/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/Dhriti2513/leetcode-journal/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Dhriti2513/leetcode-journal/tree/master/1872-stone-game-viii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -214,6 +215,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0482-license-key-formatting](https://github.com/Dhriti2513/leetcode-journal/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Dhriti2513/leetcode-journal/tree/master/0520-detect-capital) |
 | [0831-masking-personal-information](https://github.com/Dhriti2513/leetcode-journal/tree/master/0831-masking-personal-information) |
+| [0940-distinct-subsequences-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dhriti2513/leetcode-journal/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/1358-number-of-substrings-containing-all-three-characters) |
