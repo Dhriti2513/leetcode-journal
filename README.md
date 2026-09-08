@@ -39,6 +39,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhriti2513/leetcode-journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/Dhriti2513/leetcode-journal/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
