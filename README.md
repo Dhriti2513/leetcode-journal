@@ -120,6 +120,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [3689-maximum-total-subarray-value-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhriti2513/leetcode-journal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dhriti2513/leetcode-journal/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -158,6 +159,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Dhriti2513/leetcode-journal/tree/master/2236-root-equals-sum-of-children) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -239,6 +241,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [3499-maximize-active-section-with-trade-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3612-process-string-with-special-operations-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -326,6 +329,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0932-beautiful-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0932-beautiful-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -374,6 +378,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0307-range-sum-query-mutable](https://github.com/Dhriti2513/leetcode-journal/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Dhriti2513/leetcode-journal/tree/master/0493-reverse-pairs) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Dhriti2513/leetcode-journal/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -383,6 +388,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Dhriti2513/leetcode-journal/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -470,6 +476,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhriti2513/leetcode-journal/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dhriti2513/leetcode-journal/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -497,6 +504,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1971-find-if-path-exists-in-graph](https://github.com/Dhriti2513/leetcode-journal/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dhriti2513/leetcode-journal/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhriti2513/leetcode-journal/tree/master/2685-count-the-number-of-complete-components) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dhriti2513/leetcode-journal/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Combinatorics
 |  |
 | ------- |
