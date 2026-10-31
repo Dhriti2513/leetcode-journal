@@ -51,6 +51,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1872-stone-game-viii](https://github.com/Dhriti2513/leetcode-journal/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dhriti2513/leetcode-journal/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/Dhriti2513/leetcode-journal/tree/master/3665-twisted-mirror-path-count) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dhriti2513/leetcode-journal/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -117,6 +118,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhriti2513/leetcode-journal/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/Dhriti2513/leetcode-journal/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -468,6 +470,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0463-island-perimeter](https://github.com/Dhriti2513/leetcode-journal/tree/master/0463-island-perimeter) |
 | [1765-map-of-highest-peak](https://github.com/Dhriti2513/leetcode-journal/tree/master/1765-map-of-highest-peak) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhriti2513/leetcode-journal/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/Dhriti2513/leetcode-journal/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dhriti2513/leetcode-journal/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
 |  |
