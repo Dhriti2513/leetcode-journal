@@ -92,6 +92,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhriti2513/leetcode-journal/tree/master/0952-largest-component-size-by-common-factor) |
 | [1046-last-stone-weight](https://github.com/Dhriti2513/leetcode-journal/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Dhriti2513/leetcode-journal/tree/master/1200-minimum-absolute-difference) |
+| [1267-count-servers-that-communicate](https://github.com/Dhriti2513/leetcode-journal/tree/master/1267-count-servers-that-communicate) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Dhriti2513/leetcode-journal/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1331-rank-transform-of-an-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dhriti2513/leetcode-journal/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -362,6 +363,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/Dhriti2513/leetcode-journal/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dhriti2513/leetcode-journal/tree/master/3312-sorted-gcd-pair-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -451,6 +453,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0797-all-paths-from-source-to-target](https://github.com/Dhriti2513/leetcode-journal/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/Dhriti2513/leetcode-journal/tree/master/0815-bus-routes) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Dhriti2513/leetcode-journal/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1267-count-servers-that-communicate](https://github.com/Dhriti2513/leetcode-journal/tree/master/1267-count-servers-that-communicate) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Dhriti2513/leetcode-journal/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1765-map-of-highest-peak](https://github.com/Dhriti2513/leetcode-journal/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dhriti2513/leetcode-journal/tree/master/1971-find-if-path-exists-in-graph) |
@@ -476,6 +479,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Dhriti2513/leetcode-journal/tree/master/0463-island-perimeter) |
+| [1267-count-servers-that-communicate](https://github.com/Dhriti2513/leetcode-journal/tree/master/1267-count-servers-that-communicate) |
 | [1765-map-of-highest-peak](https://github.com/Dhriti2513/leetcode-journal/tree/master/1765-map-of-highest-peak) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhriti2513/leetcode-journal/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3665-twisted-mirror-path-count](https://github.com/Dhriti2513/leetcode-journal/tree/master/3665-twisted-mirror-path-count) |
@@ -498,6 +502,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhriti2513/leetcode-journal/tree/master/0128-longest-consecutive-sequence) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dhriti2513/leetcode-journal/tree/master/0952-largest-component-size-by-common-factor) |
+| [1267-count-servers-that-communicate](https://github.com/Dhriti2513/leetcode-journal/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dhriti2513/leetcode-journal/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dhriti2513/leetcode-journal/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhriti2513/leetcode-journal/tree/master/2685-count-the-number-of-complete-components) |
@@ -516,6 +521,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [0463-island-perimeter](https://github.com/Dhriti2513/leetcode-journal/tree/master/0463-island-perimeter) |
 | [0687-longest-univalue-path](https://github.com/Dhriti2513/leetcode-journal/tree/master/0687-longest-univalue-path) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dhriti2513/leetcode-journal/tree/master/0797-all-paths-from-source-to-target) |
+| [1267-count-servers-that-communicate](https://github.com/Dhriti2513/leetcode-journal/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dhriti2513/leetcode-journal/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dhriti2513/leetcode-journal/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhriti2513/leetcode-journal/tree/master/2685-count-the-number-of-complete-components) |
