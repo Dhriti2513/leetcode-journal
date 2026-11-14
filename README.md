@@ -32,6 +32,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dhriti2513/leetcode-journal/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dhriti2513/leetcode-journal/tree/master/3312-sorted-gcd-pair-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhriti2513/leetcode-journal/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhriti2513/leetcode-journal/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dhriti2513/leetcode-journal/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -50,6 +51,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1510-stone-game-iv](https://github.com/Dhriti2513/leetcode-journal/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Dhriti2513/leetcode-journal/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dhriti2513/leetcode-journal/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhriti2513/leetcode-journal/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/Dhriti2513/leetcode-journal/tree/master/3665-twisted-mirror-path-count) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -119,6 +121,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dhriti2513/leetcode-journal/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhriti2513/leetcode-journal/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhriti2513/leetcode-journal/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhriti2513/leetcode-journal/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/Dhriti2513/leetcode-journal/tree/master/3665-twisted-mirror-path-count) |
@@ -152,6 +155,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [3312-sorted-gcd-pair-queries](https://github.com/Dhriti2513/leetcode-journal/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhriti2513/leetcode-journal/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhriti2513/leetcode-journal/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhriti2513/leetcode-journal/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dhriti2513/leetcode-journal/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
@@ -217,6 +221,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhriti2513/leetcode-journal/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Dhriti2513/leetcode-journal/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhriti2513/leetcode-journal/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhriti2513/leetcode-journal/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Dhriti2513/leetcode-journal/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String
 |  |
@@ -416,6 +421,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhriti2513/leetcode-journal/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dhriti2513/leetcode-journal/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dhriti2513/leetcode-journal/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Dhriti2513/leetcode-journal/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Rolling Hash
 |  |
 | ------- |
